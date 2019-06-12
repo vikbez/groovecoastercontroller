@@ -45,7 +45,7 @@ Box is 20 x 10 x 56.5 cm
 - assemble bottom panel and then rear panel when you confirmed everything works
 
 # soldering
-Solder a GND wire to all leds and buttons
-Solder pins A5, A6, A7, A8 and 3, 4, 5, 6 to left and right joysticks
-Solder pins A4 and 7 to left and right buttons
-Solder pins A3 and 8 to left and right leds
+- Solder a GND wire to all leds and buttons
+- Solder pins A5, A6, A7, A8 and 3, 4, 5, 6 to left and right joysticks
+- Solder pins A4 and 7 to left and right buttons
+- Solder pins A3 and 8 to left and right leds
