@@ -4,6 +4,7 @@ Box is 20 x 10 x 56.5 cm
 
 ![controller](controller.jpg)
 ![controller wireframe](controller_wireframe.jpg)
+(part linking the ls32 and joy_stick is missing in this picture: you can [look at it here](joy_tube.STL))
 
 # needed
 - a teensy 3.2 or 3.1
