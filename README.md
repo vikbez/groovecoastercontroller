@@ -39,7 +39,7 @@ Box is 20 x 10 x 56.5 cm
 - screw the ls32s to the box_middle (joysticks under the board) using the fan screws
 - glue the joy_bases to the box_top (wood glue should do it)
 - assemble the sides, front and top panel using the glue
-- assemble the 40mm buttons on the joy_sticks, and solder the wires to them
+- assemble the 60mm buttons on the joy_sticks, and solder the wires to them
 - assemble the joy_sticks on the joy_tube
 - solder wires to the ls32s 
 - solder everything to the teensy
