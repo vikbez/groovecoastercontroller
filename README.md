@@ -12,7 +12,7 @@ Box is 20 x 10 x 56.5 cm
 - a laser cutting machine
 - 5mm plywood
 - 2 x seimitsu LS32-SE joysticks
-- 2 x 40mm buttons
+- 2 x 60mm buttons
 - 2 screws for locking the top of the sticks
 - 2 x large 6mm washers
 - 2 x anti vibration 6mm nuts
